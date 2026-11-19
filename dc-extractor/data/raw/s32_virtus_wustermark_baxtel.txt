@@ -1,0 +1,8 @@
+SOURCE_URL: https://baxtel.com/news/virtus-starts-on-204mw-data-center-campus-near-berlin
+
+Virtus Starts on 204MW Data Center Campus Near Berlin
+Apr 15, 2026
+European data center operator Virtus has begun construction of a 204MW facility outside Berlin, Germany.
+Located around 12km (7.4 miles) west of the capital in the municipality of Wustermark, the company plans to invest a total of €3 billion ($3.5 billion) in the project.
+Construction is beginning with the substation, which is scheduled for completion by 2027.
+Smaller than the Wustermark development, the site will include four data centers delivering 57.6MW of IT load across 204,515 sq ft (19,000 sqm), with operations expected to begin in 2027.

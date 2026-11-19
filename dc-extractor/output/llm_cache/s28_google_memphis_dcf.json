@@ -1,0 +1,49 @@
+{
+  "projects": [
+    {
+      "project_name": "Google West Memphis campus",
+      "developer": "Google",
+      "operator": "Google",
+      "country": "US",
+      "city_or_region": "West Memphis, Arkansas",
+      "capacity_mw": null,
+      "status": "under_construction",
+      "expected_online_year": null,
+      "power_supply": null,
+      "investment_usd_m": 4000,
+      "evidence": {
+        "project_name": "hyperscale campus in West Memphis, Arkansas",
+        "developer": "Google formally broke ground",
+        "operator": "Google formally broke ground",
+        "country": "West Memphis, Arkansas",
+        "city_or_region": "West Memphis, Arkansas",
+        "status": "formally broke ground",
+        "investment_usd_m": "its $4 billion hyperscale campus"
+      },
+      "confidence": 0.9,
+      "notes": null
+    },
+    {
+      "project_name": "DataBank Culpeper campus",
+      "developer": "DataBank",
+      "operator": "DataBank",
+      "country": "US",
+      "city_or_region": "Culpeper, Virginia",
+      "capacity_mw": null,
+      "status": "under_construction",
+      "expected_online_year": null,
+      "power_supply": null,
+      "investment_usd_m": null,
+      "evidence": {
+        "project_name": "85-acre Culpeper, Virginia campus",
+        "developer": "DataBank broke ground",
+        "operator": "DataBank broke ground",
+        "country": "Culpeper, Virginia",
+        "city_or_region": "Culpeper, Virginia",
+        "status": "DataBank broke ground"
+      },
+      "confidence": 0.9,
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+SOURCE_URL: https://www.thestar.com.my/tech/tech-news/2026/02/12/amsterdam-based-ai-firm-nebius-to-build-240mw-data-centre-near-lille-france
+
+AMSTERDAM, Feb 12 (Reuters) - Nebius, the Amsterdam-based AI cloud services firm, is planning a new 240-megawatt data centre in Bethune, France, near Lille, that will be one of Europe's largest when it is finished, the company said on Thursday.
+The project, a redevelopment of a former Bridgestone tyre plant, is expected to begin delivering capacity in phases, with the first capacity online by late summer and roughly half the site operational by the end of 2026.
+Although financial terms of the Bethune project were not disclosed, a data centre of this scale would require several billion euros in investment.

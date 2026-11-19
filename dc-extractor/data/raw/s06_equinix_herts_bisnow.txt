@@ -1,0 +1,5 @@
+SOURCE_URL: https://www.bisnow.com/london/news/data-center-capital-markets/one-week-10b-of-data-centre-deals-in-the-uk-131705
+
+The Dc01Uk Scheme In Hertfordshire
+That same investor announced last week that it had sold a nearby site to specialist developer and operator Equinix, which will now build a £3.9B, 250 MW scheme.
+Equinix runs colocation schemes, which are leased out to multiple data centre users.

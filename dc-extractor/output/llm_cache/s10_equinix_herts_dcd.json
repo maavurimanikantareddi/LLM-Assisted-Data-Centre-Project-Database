@@ -1,0 +1,71 @@
+{
+  "projects": [
+    {
+      "project_name": "DC01UK Hertfordshire Campus",
+      "developer": "Equinix",
+      "operator": "Equinix",
+      "country": "UK",
+      "city_or_region": "Hertfordshire",
+      "capacity_mw": 320,
+      "status": "permitted",
+      "expected_online_year": 2029,
+      "power_supply": null,
+      "investment_usd_m": null,
+      "evidence": {
+        "project_name": "its Hertfordshire Campus",
+        "developer": "Equinix buys DC01UK",
+        "operator": "Equinix buys DC01UK",
+        "country": "Hertfordshire, UK",
+        "city_or_region": "Hertfordshire, UK",
+        "capacity_mw": "targeting capacity of 320MW",
+        "status": "granted planning permission in January",
+        "expected_online_year": "up and running by 2029"
+      },
+      "confidence": 0.7,
+      "notes": "320MW was the original Sept 2024 target; may be outdated"
+    },
+    {
+      "project_name": "Google Waltham Cross data centre",
+      "developer": "Google",
+      "operator": "Google",
+      "country": "UK",
+      "city_or_region": "Waltham Cross",
+      "capacity_mw": null,
+      "status": "operational",
+      "expected_online_year": null,
+      "power_supply": null,
+      "investment_usd_m": 6810,
+      "evidence": {
+        "project_name": "Google opened a data center in Waltham Cross",
+        "developer": "Google opened",
+        "operator": "Google opened",
+        "country": "investment in the UK",
+        "city_or_region": "Waltham Cross",
+        "status": "Google opened a data center",
+        "investment_usd_m": "£5 billion ($6.81bn)"
+      },
+      "confidence": 0.75,
+      "notes": "Investment figure is Google's total UK investment, not this site alone"
+    },
+    {
+      "project_name": "Nscale Loughton data centre",
+      "developer": null,
+      "operator": "Nscale",
+      "country": "UK",
+      "city_or_region": "Loughton",
+      "capacity_mw": null,
+      "status": "under_construction",
+      "expected_online_year": null,
+      "power_supply": null,
+      "investment_usd_m": null,
+      "evidence": {
+        "project_name": "an Nscale data center under construction in Loughton",
+        "operator": "an Nscale data center",
+        "city_or_region": "Loughton",
+        "status": "under construction in Loughton"
+      },
+      "confidence": 0.8,
+      "notes": "Will host a Microsoft supercomputer"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "projects": [
+    {
+      "project_name": "Ebbsfleet AI Data Centre Campus",
+      "developer": "Clearstone",
+      "operator": null,
+      "country": "UK",
+      "city_or_region": "Kent",
+      "capacity_mw": null,
+      "status": "planning",
+      "expected_online_year": null,
+      "power_supply": null,
+      "investment_usd_m": null,
+      "evidence": {
+        "project_name": "the Ebbsfleet AI Data Centre Campus",
+        "developer": "Clearstone this week announced plans",
+        "country": "Kent, UK",
+        "city_or_region": "proposed in Kent",
+        "status": "The company has filed plans"
+      },
+      "confidence": 0.9,
+      "notes": "Filed via CSE52 Ltd affiliate; nationally significant development"
+    }
+  ]
+}

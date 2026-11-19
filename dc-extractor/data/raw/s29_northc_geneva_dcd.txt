@@ -1,0 +1,4 @@
+SOURCE_URL: https://datacenterdynamics.com/en/news/northc-breaks-ground-on-data-center-in-geneva-switzerland
+
+European data center firm NorthC has started construction on a new facility in Geneva, Switzerland.
+Plans for a Geneva data center were first announced in January 2026. Located at Rte du Nant-d'Avril 152 in Meyrin, the modular facility will offer 4.5MW of IT capacity across 5,400 sqm (58,125 sq ft), delivered in increments of 1.5MW. Construction is expected to be completed by Q2 2028.

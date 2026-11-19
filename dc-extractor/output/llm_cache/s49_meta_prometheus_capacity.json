@@ -1,0 +1,25 @@
+{
+  "projects": [
+    {
+      "project_name": "Prometheus",
+      "developer": "Meta",
+      "operator": "Meta",
+      "country": "US",
+      "city_or_region": null,
+      "capacity_mw": 1000,
+      "status": "under_construction",
+      "expected_online_year": 2026,
+      "power_supply": null,
+      "investment_usd_m": null,
+      "evidence": {
+        "project_name": "Meta announced Prometheus",
+        "developer": "Meta announced Prometheus",
+        "operator": "Meta announced Prometheus",
+        "capacity_mw": "a 1-gigawatt cluster",
+        "expected_online_year": "anticipated to come online this year"
+      },
+      "confidence": 0.75,
+      "notes": "Location not in this source; 'this year' read from 2026 article date"
+    }
+  ]
+}

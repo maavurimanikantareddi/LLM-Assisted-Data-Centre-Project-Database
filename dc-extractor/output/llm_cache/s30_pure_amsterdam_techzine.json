@@ -1,0 +1,51 @@
+{
+  "projects": [
+    {
+      "project_name": "Pure DC Amsterdam campus",
+      "developer": "Pure Data Centres",
+      "operator": "Pure Data Centres",
+      "country": "Netherlands",
+      "city_or_region": "Amsterdam",
+      "capacity_mw": 78,
+      "status": "announced",
+      "expected_online_year": 2028,
+      "power_supply": "Private substation",
+      "investment_usd_m": null,
+      "evidence": {
+        "project_name": "The Amsterdam project",
+        "developer": "Pure Data Centres reports",
+        "operator": "Pure Data Centres reports",
+        "country": "The Amsterdam project",
+        "city_or_region": "The Amsterdam project",
+        "capacity_mw": "78MW of new capacity",
+        "status": "Construction will start in January 2026",
+        "expected_online_year": "phased completion from 2028 onwards",
+        "power_supply": "A private substation will supply the data center with power"
+      },
+      "confidence": 0.9,
+      "notes": null
+    },
+    {
+      "project_name": "Pure DC / Segro West London",
+      "developer": "Pure DC; Segro",
+      "operator": null,
+      "country": "UK",
+      "city_or_region": "West London",
+      "capacity_mw": 56,
+      "status": "announced",
+      "expected_online_year": null,
+      "power_supply": null,
+      "investment_usd_m": null,
+      "evidence": {
+        "project_name": "a 56MW data center in West London",
+        "developer": "partnership with London-listed real estate company Segro",
+        "country": "West London",
+        "city_or_region": "West London",
+        "capacity_mw": "a 56MW data center",
+        "status": "entered into a partnership"
+      },
+      "confidence": 0.8,
+      "notes": null
+    }
+  ]
+}

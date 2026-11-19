@@ -1,0 +1,5 @@
+SOURCE_URL: https://www.theregister.com/2025/10/30/equinix_datacenter_hertfordshire/
+
+Equinix revealed as occupant of £3.9B UK datacenter campus
+Investment will fund 250 MW, three-facility campus near London as AI and cloud demand surge
+The planning application for the project was filed last year by a company called DC01 UK Ltd. The site will feature three facilities with more than 250 MW capacity across 2 million square feet — making it one of Europe's largest datacenter campuses.

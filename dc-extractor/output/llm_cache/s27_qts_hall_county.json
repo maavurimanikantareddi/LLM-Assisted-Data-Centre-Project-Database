@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "project_name": "QTS Hall County campus",
+      "developer": "QTS Data Centers; Lancium",
+      "operator": "QTS Data Centers",
+      "country": "US",
+      "city_or_region": "Turkey, Hall County, Texas",
+      "capacity_mw": null,
+      "status": "announced",
+      "expected_online_year": null,
+      "power_supply": "Lancium develops supporting energy infrastructure",
+      "investment_usd_m": 10000,
+      "evidence": {
+        "project_name": "a new hyperscale data center campus in Hall County, Texas",
+        "developer": "QTS Data Centers and Lancium announced plans",
+        "operator": "QTS will design, build, and operate",
+        "country": "Hall County, Texas",
+        "city_or_region": "near Turkey, Texas",
+        "status": "announced plans to develop",
+        "investment_usd_m": "more than $10 billion",
+        "power_supply": "Lancium develops the supporting energy and civil infrastructure"
+      },
+      "confidence": 0.9,
+      "notes": "Capacity described only as gigawatt-scale in headline"
+    }
+  ]
+}

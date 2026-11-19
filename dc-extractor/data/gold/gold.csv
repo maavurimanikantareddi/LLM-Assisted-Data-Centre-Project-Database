@@ -1,0 +1,31 @@
+source_file,project_name,developer,country,city_or_region,capacity_mw,status,expected_online_year
+s01_colt_hayes_register.txt,Hayes Digital Park,Colt Data Centre Services,UK,"Hayes, London",97,permitted,
+s02_equinix_herts_register.txt,DC01UK,DC01 UK Ltd,UK,London,250,planning,
+s03_uk_deals_bisnow.txt,Hayes Digital Park,Colt Data Centre Services,UK,"Hayes, London",,permitted,2029
+s03_uk_deals_bisnow.txt,Ark Watford,Ark Data Centres,UK,Watford,200,planning,
+s05_cyrusone_lon6_dcr.txt,LON6,CyrusOne,UK,"Iver Heath, Buckinghamshire",90,announced,2028
+s07_elsham_baxtel.txt,Elsham Tech Park,,UK,North Lincolnshire,1000,permitted,
+s08_ebbsfleet_baxtel.txt,Ebbsfleet AI Data Centre Campus,Clearstone,UK,"Dartford, Kent",300,announced,
+s10_equinix_herts_dcd.txt,DC01UK Hertfordshire Campus,Equinix,UK,Hertfordshire,,permitted,2029
+s10_equinix_herts_dcd.txt,Nscale Loughton,,UK,Loughton,,under_construction,
+s12_sembcorp_teesside_baxtel.txt,Wilton International data centre,Sembcorp,UK,Teesside,280,announced,
+s13_ebbsfleet_wmedia.txt,Ebbsfleet AI Data Center campus,Clearstone,UK,Dartford,300,planning,
+s15_kennedy_wilson_baxtel.txt,Kennedy Wilson Slough,Kennedy Wilson,UK,Slough,73,announced,
+s16_corscale_iver_dcr.txt,CorScale Iver,CorScale,UK,"Iver, Buckinghamshire",140,planning,2029
+s19_crusoe_childress.txt,Childress campus,Crusoe; Lancium,US,"Childress, Texas",1000,announced,
+s22_meta_lebanon_dcf.txt,Meta Lebanon,Meta,US,"Lebanon, Indiana",1000,under_construction,
+s23_applied_digital_dcf.txt,Delta Forge 1,Applied Digital,US,,430,under_construction,
+s24_vantage_frontier_icio.txt,Frontier,Vantage Data Centers,US,"Shackelford County, Texas",1400,announced,
+s27_qts_hall_county.txt,QTS Hall County,QTS Data Centers; Lancium,US,"Hall County, Texas",,announced,
+s28_google_memphis_dcf.txt,Google West Memphis,Google,US,"West Memphis, Arkansas",,under_construction,
+s29_northc_geneva_dcd.txt,NorthC Geneva,NorthC,Switzerland,"Meyrin, Geneva",4.5,under_construction,2028
+s30_pure_amsterdam_techzine.txt,Pure DC Amsterdam,Pure Data Centres,Netherlands,Amsterdam,78,announced,2028
+s31_pure_amsterdam_capacity.txt,Pure Data Centres Amsterdam,Pure Data Centres,Netherlands,Amsterdam,70,announced,2028
+s32_virtus_wustermark_baxtel.txt,Virtus Wustermark,Virtus,Germany,Wustermark,204,under_construction,
+s40_cerebras_mikkeli_baxtel.txt,Cerebras Mikkeli,Cerebras,Finland,Mikkeli,165,under_construction,
+s41_nebius_lappeenranta_euronews.txt,Nebius Lappeenranta,Nebius,Finland,Lappeenranta,310,under_construction,
+s42_nebius_bethune_reuters.txt,Nebius Bethune,Nebius,France,Bethune,240,announced,2026
+s44_konin_poland_dcd.txt,Konin Data Center,Central Energy Group (CGE),Poland,Konin,100,permitted,
+s47_meta_prometheus_nuclear.txt,Prometheus,Meta,US,"New Albany, Ohio",,under_construction,
+s51_fermi_amarillo_eenews.txt,HyperGrid,Fermi America,US,"Amarillo, Texas",,announced,
+s53_paducah_dck.txt,Paducah AI campus,Brookfield; NextEra Energy,US,"Paducah, Kentucky",1200,announced,

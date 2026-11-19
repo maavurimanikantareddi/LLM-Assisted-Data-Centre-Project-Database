@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "project_name": "Paducah AI campus",
+      "developer": "Brookfield; NextEra Energy",
+      "operator": null,
+      "country": "US",
+      "city_or_region": "Paducah, Kentucky",
+      "capacity_mw": 1200,
+      "status": "announced",
+      "expected_online_year": null,
+      "power_supply": "Dedicated natural gas and battery storage",
+      "investment_usd_m": 100000,
+      "evidence": {
+        "project_name": "$100B AI Campus at DOE's Paducah Site",
+        "developer": "Brookfield and NextEra Energy plan",
+        "country": "Paducah Gaseous Diffusion Plant in Kentucky",
+        "city_or_region": "Paducah Gaseous Diffusion Plant in Kentucky",
+        "capacity_mw": "more than 1.2 GW of compute capacity",
+        "status": "Brookfield, NextEra Launch",
+        "investment_usd_m": "Launch $100B AI Campus",
+        "power_supply": "backed by dedicated natural gas and battery storage"
+      },
+      "confidence": 0.9,
+      "notes": null
+    }
+  ]
+}

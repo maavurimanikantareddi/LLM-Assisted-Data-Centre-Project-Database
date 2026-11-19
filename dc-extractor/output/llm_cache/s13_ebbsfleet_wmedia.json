@@ -1,0 +1,26 @@
+{
+  "projects": [
+    {
+      "project_name": "Ebbsfleet AI Data Center campus",
+      "developer": "Clearstone",
+      "operator": null,
+      "country": "UK",
+      "city_or_region": "Dartford, Kent",
+      "capacity_mw": 300,
+      "status": "planning",
+      "expected_online_year": null,
+      "power_supply": null,
+      "investment_usd_m": null,
+      "evidence": {
+        "project_name": "The Ebbsfleet AI Data Center campus",
+        "developer": "Clearstone, a UK infrastructure developer",
+        "country": "a UK infrastructure developer",
+        "city_or_region": "near Dartford, on the borders of London and Kent",
+        "capacity_mw": "a 300 MW AI data center campus",
+        "status": "Clearstone applied to the Government in May 2026"
+      },
+      "confidence": 0.9,
+      "notes": "NSIP planning regime"
+    }
+  ]
+}

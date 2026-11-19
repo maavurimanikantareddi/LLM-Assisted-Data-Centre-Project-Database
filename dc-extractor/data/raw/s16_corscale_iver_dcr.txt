@@ -1,0 +1,5 @@
+SOURCE_URL: https://datacentrereview.com/2026/06/corscale-targets-2029-completion-for-140-mw-iver-data-centre-campus/
+
+CorScale targets 2029 completion for 140 MW Iver data centre campus
+CorScale is preparing to move forward with its first UK data centre project, after appointing McLaren Construction and Phoenix ME to begin pre-development works on a planned 140 MW campus in Iver, Buckinghamshire.
+The US data centre developer is looking to transform a 14-acre industrial estate into a hyperscale data centre campus comprising two multi-storey data centre buildings and a dedicated 140MVA substation.

@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "project_name": "Nebius Bethune data centre",
+      "developer": "Nebius",
+      "operator": "Nebius",
+      "country": "France",
+      "city_or_region": "Bethune, near Lille",
+      "capacity_mw": 240,
+      "status": "announced",
+      "expected_online_year": 2026,
+      "power_supply": null,
+      "investment_usd_m": null,
+      "evidence": {
+        "project_name": "the Bethune project",
+        "developer": "Nebius, the Amsterdam-based AI cloud services firm",
+        "operator": "Nebius, the Amsterdam-based AI cloud services firm",
+        "country": "Bethune, France",
+        "city_or_region": "Bethune, France, near Lille",
+        "capacity_mw": "a new 240-megawatt data centre",
+        "status": "is planning a new",
+        "expected_online_year": "first capacity online by late summer"
+      },
+      "confidence": 0.9,
+      "notes": "Former Bridgestone tyre plant; half the site operational by end-2026"
+    }
+  ]
+}

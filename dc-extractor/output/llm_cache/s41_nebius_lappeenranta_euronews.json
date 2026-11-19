@@ -1,0 +1,27 @@
+{
+  "projects": [
+    {
+      "project_name": "Nebius Lappeenranta AI factory",
+      "developer": "Nebius",
+      "operator": "Nebius",
+      "country": "Finland",
+      "city_or_region": "Lappeenranta",
+      "capacity_mw": 310,
+      "status": "under_construction",
+      "expected_online_year": null,
+      "power_supply": null,
+      "investment_usd_m": null,
+      "evidence": {
+        "project_name": "The Lappeenranta factory",
+        "developer": "Nebius, a Dutch cloud company, announced",
+        "operator": "Nebius, a Dutch cloud company",
+        "country": "a new data centre in Finland",
+        "city_or_region": "the Finnish city of Lappeenranta",
+        "capacity_mw": "up to 310 megawatts (MW)",
+        "status": "being built in the Finnish city of Lappeenranta"
+      },
+      "confidence": 0.8,
+      "notes": null
+    }
+  ]
+}

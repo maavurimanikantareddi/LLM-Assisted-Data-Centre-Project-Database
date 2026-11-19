@@ -1,0 +1,5 @@
+SOURCE_URL: https://www.datacenterknowledge.com/data-center-construction/brookfield-nextera-launch-100b-ai-campus-at-doe-s-paducah-site
+
+Brookfield, NextEra Launch $100B AI Campus at DOE's Paducah Site
+The former uranium enrichment complex would host more than 1.2 GW of AI compute backed by dedicated natural gas and battery storage.
+Brookfield and NextEra Energy plan to transform part of the US Department of Energy's former Paducah Gaseous Diffusion Plant in Kentucky into one of the nation's largest AI data center campuses, targeting more than 1.2 GW of compute capacity.

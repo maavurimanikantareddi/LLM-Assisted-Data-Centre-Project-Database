@@ -1,0 +1,4 @@
+SOURCE_URL: https://spectrumnews1.com/oh/columbus/news/2026/01/09/meta-lines-up-massive-supply-of-nuclear-power-to-energize-ai-data-centers
+
+The parent company of Facebook on Friday announced agreements with TerraPower, Oklo and Vistra for nuclear power for its Prometheus AI data center that is being built in New Albany, Ohio.
+The nuclear power agreements come after Meta announced in June that it reached a 20-year deal with Constellation Energy.

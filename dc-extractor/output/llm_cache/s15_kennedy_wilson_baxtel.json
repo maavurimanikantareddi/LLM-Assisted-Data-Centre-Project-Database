@@ -1,0 +1,26 @@
+{
+  "projects": [
+    {
+      "project_name": "Kennedy Wilson Slough campus",
+      "developer": "Kennedy Wilson",
+      "operator": null,
+      "country": "UK",
+      "city_or_region": "Slough",
+      "capacity_mw": 73,
+      "status": "announced",
+      "expected_online_year": null,
+      "power_supply": null,
+      "investment_usd_m": null,
+      "evidence": {
+        "project_name": "a 73MW data center campus near Slough",
+        "developer": "Kennedy Wilson has previously proposed",
+        "country": "the UK's largest data center hub",
+        "city_or_region": "near Slough",
+        "capacity_mw": "a 73MW data center campus",
+        "status": "has previously proposed"
+      },
+      "confidence": 0.6,
+      "notes": "Headline refers to a separate approval in West London; link unclear"
+    }
+  ]
+}

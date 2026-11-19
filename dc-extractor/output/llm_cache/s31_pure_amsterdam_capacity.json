@@ -1,0 +1,30 @@
+{
+  "projects": [
+    {
+      "project_name": "Pure Data Centres Amsterdam campus",
+      "developer": "Pure Data Centres",
+      "operator": "Pure Data Centres",
+      "country": "Netherlands",
+      "city_or_region": "Amsterdam",
+      "capacity_mw": 70,
+      "status": "announced",
+      "expected_online_year": 2028,
+      "power_supply": "Private substation",
+      "investment_usd_m": 1170,
+      "evidence": {
+        "project_name": "a campus in Amsterdam",
+        "developer": "Pure Data Centres plans to fund",
+        "operator": "Pure Data Centres plans to fund",
+        "country": "a campus in Amsterdam",
+        "city_or_region": "a campus in Amsterdam",
+        "capacity_mw": "total potential campus capacity of 70MW",
+        "status": "Construction of the campus will begin",
+        "expected_online_year": "phased delivery from 2028 onwards",
+        "power_supply": "a private substation powering the data centre",
+        "investment_usd_m": "€1bn (US$1.17bn)"
+      },
+      "confidence": 0.9,
+      "notes": "Phase one 30MW"
+    }
+  ]
+}

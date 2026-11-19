@@ -1,0 +1,26 @@
+{
+  "projects": [
+    {
+      "project_name": "Elsham Tech Park",
+      "developer": null,
+      "operator": null,
+      "country": "UK",
+      "city_or_region": "North Lincolnshire",
+      "capacity_mw": 1000,
+      "status": "permitted",
+      "expected_online_year": null,
+      "power_supply": "On-site energy centre (49.9MW, source unspecified) for part of demand",
+      "investment_usd_m": null,
+      "evidence": {
+        "project_name": "approved the Elsham Tech Park project",
+        "country": "North Lincolnshire, UK",
+        "city_or_region": "North Lincolnshire, UK",
+        "capacity_mw": "A proposed 1GW data center campus",
+        "status": "has received planning approval",
+        "power_supply": "An on-site energy center is also proposed to generate 49.9MW"
+      },
+      "confidence": 0.9,
+      "notes": "Former RAF airbase"
+    }
+  ]
+}

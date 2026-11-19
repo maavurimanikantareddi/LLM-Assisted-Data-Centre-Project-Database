@@ -1,0 +1,6 @@
+SOURCE_URL: https://www.datacenterdynamics.com/en/news/equinix-buys-dc01uk-data-center-campus-in-hertfordshire-uk-plans-39bn-investment/
+
+Equinix buys DC01UK data center campus in Hertfordshire, UK, plans £3.9bn investment
+It has now dubbed the data center, which will span more than two million sq ft (185,806 sqm), its Hertfordshire Campus.
+Plans for DC01UK were first announced in September 2024. At the time, the facility was said to be targeting capacity of 320MW. The scheme was granted planning permission in January. It is hoped it will be up and running by 2029.
+Google opened a data center in Waltham Cross earlier this year as part of a £5 billion ($6.81bn) investment in the UK, while Microsoft is planning to build a supercomputer that will be hosted at an Nscale data center under construction in Loughton,

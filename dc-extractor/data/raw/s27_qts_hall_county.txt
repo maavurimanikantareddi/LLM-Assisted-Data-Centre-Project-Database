@@ -1,0 +1,6 @@
+SOURCE_URL: https://convergedigest.com/?p=113214
+
+QTS Targets Gigawatt-Scale AI Expansion with New Texas Campus
+July 16, 2026
+QTS Data Centers and Lancium announced plans to develop a new hyperscale data center campus in Hall County, Texas, representing more than $10 billion in expected capital investment. The project will be located on Lancium's Clean Campus near Turkey, Texas, where QTS will design, build, and operate the data center facilities while Lancium develops the supporting energy and civil infrastructure.
+QTS also said the data center will employ a closed-loop cooling system that does not consume water for cooling during normal operations.

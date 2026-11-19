@@ -1,0 +1,5 @@
+SOURCE_URL: https://datacenterfrontier.com/machine-learning/article/55357508/ais-new-land-grab-metas-indiana-megaproject-and-the-rise-of-europes-neocloud-challengers
+
+Meta's new Indiana campus represents one of the largest digital infrastructure projects in the U.S., with a potential capacity approaching one gigawatt, supporting AI training and deployment at a massive scale.
+Meta this week officially broke ground on a new data center campus in Lebanon, Indiana, launching what could become one of the largest digital infrastructure projects in the United States.
+At full buildout, the campus could approach one gigawatt of power capacity.

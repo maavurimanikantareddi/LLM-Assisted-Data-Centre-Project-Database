@@ -1,0 +1,48 @@
+{
+  "projects": [
+    {
+      "project_name": "Hayes Digital Park expansion",
+      "developer": "Colt Data Centre Services",
+      "operator": null,
+      "country": "UK",
+      "city_or_region": "Hayes, West London",
+      "capacity_mw": null,
+      "status": "permitted",
+      "expected_online_year": 2029,
+      "power_supply": null,
+      "investment_usd_m": null,
+      "evidence": {
+        "project_name": "Hayes Digital Park campus",
+        "developer": "Colt Data Centre Services",
+        "country": "West London",
+        "city_or_region": "Hayes Digital Park campus in West London",
+        "status": "received planning committee approval from Hillingdon Council",
+        "expected_online_year": "scheduled to go live in early 2029"
+      },
+      "confidence": 0.9,
+      "notes": null
+    },
+    {
+      "project_name": "Ark Watford data centre campus",
+      "developer": "Ark Data Centres",
+      "operator": null,
+      "country": "UK",
+      "city_or_region": "Watford",
+      "capacity_mw": 200,
+      "status": "planning",
+      "expected_online_year": null,
+      "power_supply": null,
+      "investment_usd_m": null,
+      "evidence": {
+        "project_name": "Ark Data Centres is planning a £2B data centre near Watford",
+        "developer": "Ark Data Centres",
+        "country": "near Watford",
+        "city_or_region": "near Watford",
+        "capacity_mw": "up to 200 MW",
+        "status": "has started a public consultation on the project"
+      },
+      "confidence": 0.85,
+      "notes": "£2B (GBP); former Mercure hotel site; capacity 'up to'"
+    }
+  ]
+}

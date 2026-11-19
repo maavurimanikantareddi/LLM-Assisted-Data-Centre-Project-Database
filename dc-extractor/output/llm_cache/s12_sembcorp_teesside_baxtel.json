@@ -1,0 +1,26 @@
+{
+  "projects": [
+    {
+      "project_name": "Wilton International data centre",
+      "developer": "Sembcorp; Digital Reef",
+      "operator": null,
+      "country": "UK",
+      "city_or_region": "Wilton International, Teesside",
+      "capacity_mw": 280,
+      "status": "announced",
+      "expected_online_year": null,
+      "power_supply": null,
+      "investment_usd_m": null,
+      "evidence": {
+        "project_name": "a 280MW data center at Wilton International",
+        "developer": "in partnership with Digital Reef",
+        "country": "Teesside, UK",
+        "city_or_region": "Wilton International in Teesside",
+        "capacity_mw": "a 280MW data center",
+        "status": "Sembcorp is planning"
+      },
+      "confidence": 0.9,
+      "notes": "Site acquired for $4.7m (land only)"
+    }
+  ]
+}

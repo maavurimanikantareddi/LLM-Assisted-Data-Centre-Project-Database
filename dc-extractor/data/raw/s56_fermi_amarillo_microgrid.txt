@@ -1,0 +1,5 @@
+SOURCE_URL: https://www.microgridknowledge.com/data-center-microgrids/article/55301478/politically-connected-on-site-power-startup-planning-off-grid-generation-to-energize-ai-campus-in-amarillo
+
+Politically Connected On-Site Power Startup Planning Off-Grid Generation to Energize AI Campus in Amarillo
+While gas power is the starter, nuclear energy is the next step in the Fermi America plan for the Amarillo HyperGrid.
+The first phase will bring in six Siemens Energy SGT800 gas-fired turbines and one SST600 steam turbine to deliver about 478 MW of co-located power for the AI campus in the Texas Panhandle.

@@ -1,0 +1,6 @@
+SOURCE_URL: https://www.techzine.eu/news/infrastructure/137313/pure-dc-invests-12b-to-build-amsterdams-largest-data-center
+
+The project involves 78MW of new capacity, according to Reuters. The new capacity represents approximately 7 percent of the total 1,162MW of new live data center capacity added in continental Europe this year.
+Pure Data Centres reports that the campus will be leased to a single hyperscaler tenant. Construction will start in January 2026. Pure Data Centres expects phased completion from 2028 onwards.
+A private substation will supply the data center with power.
+In March, Pure DC entered into a partnership with London-listed real estate company Segro to build a 56MW data center in West London. The Amsterdam project is considerably larger.

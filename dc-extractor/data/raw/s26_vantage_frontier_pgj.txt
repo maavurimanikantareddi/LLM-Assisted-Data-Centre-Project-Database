@@ -1,0 +1,4 @@
+SOURCE_URL: https://pgjonline.com/news/2025/august/vantage-data-centers-to-build-25-billion-ai-campus-in-texas
+
+Vantage Data Centers will invest $25 billion to build its largest campus in Texas, a 1.4GW "Frontier" development aimed at supporting AI infrastructure.
+Vantage Data Centers has announced plans to build its largest project to date, a $25 billion hyperscale campus in Shackelford County, Texas, designed to meet surging demand for artificial intelligence infrastructure.

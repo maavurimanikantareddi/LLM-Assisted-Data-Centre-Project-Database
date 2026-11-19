@@ -1,0 +1,26 @@
+{
+  "projects": [
+    {
+      "project_name": "Amarillo HyperGrid",
+      "developer": "Fermi America",
+      "operator": null,
+      "country": "US",
+      "city_or_region": "Amarillo, Texas Panhandle",
+      "capacity_mw": null,
+      "status": "planning",
+      "expected_online_year": null,
+      "power_supply": "Off-grid gas (about 478 MW phase 1, Siemens turbines), nuclear later",
+      "investment_usd_m": null,
+      "evidence": {
+        "project_name": "the Amarillo HyperGrid",
+        "developer": "the Fermi America plan",
+        "country": "the Texas Panhandle",
+        "city_or_region": "AI Campus in Amarillo",
+        "status": "Planning Off-Grid Generation",
+        "power_supply": "six Siemens Energy SGT800 gas-fired turbines"
+      },
+      "confidence": 0.8,
+      "notes": null
+    }
+  ]
+}

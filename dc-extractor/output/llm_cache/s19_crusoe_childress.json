@@ -1,0 +1,27 @@
+{
+  "projects": [
+    {
+      "project_name": "Childress AI data center campus",
+      "developer": "Crusoe; Lancium",
+      "operator": "Crusoe",
+      "country": "US",
+      "city_or_region": "Childress, Texas",
+      "capacity_mw": 1000,
+      "status": "announced",
+      "expected_online_year": null,
+      "power_supply": "Grid-connected with solar; Lancium develops energy infrastructure",
+      "investment_usd_m": null,
+      "evidence": {
+        "project_name": "AI Data Center Campus in Childress, Texas",
+        "developer": "Crusoe and Lancium Announce",
+        "country": "Childress, Texas",
+        "city_or_region": "Childress, Texas",
+        "capacity_mw": "1.0 Gigawatt AI Data Center Campus",
+        "status": "Crusoe and Lancium Announce",
+        "power_supply": "The grid-connected campus"
+      },
+      "confidence": 0.85,
+      "notes": null
+    }
+  ]
+}

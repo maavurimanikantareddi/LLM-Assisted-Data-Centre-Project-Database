@@ -1,0 +1,7 @@
+SOURCE_URL: https://www.cityam.com/?p=2376716
+
+London's data centre sector is entering a new phase of expansion, with three major schemes worth over £10bn revealed in the past week.
+Colt Data Centre Services confirmed it has received planning approval from Hillingdon council to expand its Hayes digital park campus in west London, according to The Standard.
+Construction is set to commence in mid-2026, with the first data centre expected to come online in early 2029.
+Meanwhile, Ark Data Centres also announced a £2bn project near Watford, located at a former Mercure hotel site.
+A recent poll of 50 UK data centre developers by consultancy Roadnight Taylor found that more than three-quarters are exploring sites abroad, citing grid connection delays of up to eight years.

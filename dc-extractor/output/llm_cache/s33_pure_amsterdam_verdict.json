@@ -1,0 +1,29 @@
+{
+  "projects": [
+    {
+      "project_name": "Pure DC Westpoort Amsterdam campus",
+      "developer": "Pure Data Centres Group",
+      "operator": "Pure Data Centres Group",
+      "country": "Netherlands",
+      "city_or_region": "Westpoort, Amsterdam",
+      "capacity_mw": 78,
+      "status": "announced",
+      "expected_online_year": null,
+      "power_supply": "Private substation (built and operational)",
+      "investment_usd_m": 1170,
+      "evidence": {
+        "project_name": "a 78MW data centre campus in Westpoort, Amsterdam",
+        "developer": "Pure Data Centres Group (Pure DC)",
+        "operator": "Pure Data Centres Group (Pure DC)",
+        "country": "in the Netherlands",
+        "city_or_region": "Westpoort, Amsterdam",
+        "capacity_mw": "a 78MW data centre campus",
+        "status": "scheduled to start in January 2026",
+        "investment_usd_m": "more than €1bn ($1.17bn)",
+        "power_supply": "powered by a private substation that is already built and operational"
+      },
+      "confidence": 0.9,
+      "notes": "Projected PUE 1.2"
+    }
+  ]
+}

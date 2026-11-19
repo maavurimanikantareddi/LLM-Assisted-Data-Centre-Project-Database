@@ -1,0 +1,27 @@
+{
+  "projects": [
+    {
+      "project_name": "Hayes Digital Park expansion",
+      "developer": "Colt Data Centre Services",
+      "operator": null,
+      "country": "UK",
+      "city_or_region": "Hayes, west London",
+      "capacity_mw": 97,
+      "status": "permitted",
+      "expected_online_year": null,
+      "power_supply": null,
+      "investment_usd_m": 3300,
+      "evidence": {
+        "project_name": "Hayes Digital Park campus",
+        "developer": "Colt Data Centre Services has secured approval",
+        "country": "west London",
+        "city_or_region": "Hayes Digital Park campus in west London",
+        "capacity_mw": "will add 97 MW of IT capacity",
+        "status": "approved by Hillingdon Council",
+        "investment_usd_m": "£2.5 billion ($3.3 billion)"
+      },
+      "confidence": 0.9,
+      "notes": "Adds 97 MW; total campus capacity 160 MW"
+    }
+  ]
+}

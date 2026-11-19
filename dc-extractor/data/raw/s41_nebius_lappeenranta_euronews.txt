@@ -1,0 +1,7 @@
+SOURCE_URL: https://www.euronews.com/2026/03/31/dutch-data-company-unveils-one-of-europes-biggest-ai-data-centre-projects
+
+Dutch data company unveils one of Europe's biggest AI data centre projects
+Nebius, a Dutch cloud company, announced a new data centre in Finland that will generate 310 megawatts of power.
+Dutch cloud company Nebius said it is building one of the biggest AI factories in Europe.
+The factory, being built in the Finnish city of Lappeenranta, will have an energy capacity of up to 310 megawatts (MW).
+The Lappeenranta factory will bring up to 700 jobs in construction and 100 permanent positions once the data centre is operational, the company said.

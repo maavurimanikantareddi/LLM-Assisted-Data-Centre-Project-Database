@@ -1,0 +1,27 @@
+{
+  "projects": [
+    {
+      "project_name": "Prometheus",
+      "developer": "Meta",
+      "operator": "Meta",
+      "country": "US",
+      "city_or_region": "New Albany, Ohio",
+      "capacity_mw": null,
+      "status": "under_construction",
+      "expected_online_year": null,
+      "power_supply": "Nuclear power agreements with TerraPower, Oklo and Vistra",
+      "investment_usd_m": null,
+      "evidence": {
+        "project_name": "its Prometheus AI data center",
+        "developer": "The parent company of Facebook",
+        "operator": "The parent company of Facebook",
+        "country": "New Albany, Ohio",
+        "city_or_region": "New Albany, Ohio",
+        "status": "that is being built in New Albany",
+        "power_supply": "agreements with TerraPower, Oklo and Vistra for nuclear power"
+      },
+      "confidence": 0.9,
+      "notes": null
+    }
+  ]
+}

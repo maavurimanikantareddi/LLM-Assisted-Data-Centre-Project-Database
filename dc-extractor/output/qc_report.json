@@ -1,0 +1,23 @@
+{
+  "records": 43,
+  "unique_projects": 29,
+  "qc_pass_rate": 0.581,
+  "field_fill_rate": {
+    "project_name": 1.0,
+    "developer": 0.953,
+    "operator": 0.581,
+    "country": 1.0,
+    "city_or_region": 0.93,
+    "capacity_mw": 0.744,
+    "status": 1.0,
+    "expected_online_year": 0.279,
+    "power_supply": 0.302,
+    "investment_usd_m": 0.256
+  },
+  "top_flags": {
+    "status_conflict": 12,
+    "unsourced": 9,
+    "capacity_conflict": 8,
+    "low_confidence": 1
+  }
+}

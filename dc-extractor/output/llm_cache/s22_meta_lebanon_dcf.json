@@ -1,0 +1,27 @@
+{
+  "projects": [
+    {
+      "project_name": "Meta Lebanon campus",
+      "developer": "Meta",
+      "operator": "Meta",
+      "country": "US",
+      "city_or_region": "Lebanon, Indiana",
+      "capacity_mw": 1000,
+      "status": "under_construction",
+      "expected_online_year": null,
+      "power_supply": null,
+      "investment_usd_m": null,
+      "evidence": {
+        "project_name": "a new data center campus in Lebanon, Indiana",
+        "developer": "Meta this week officially broke ground",
+        "operator": "Meta this week officially broke ground",
+        "country": "projects in the United States",
+        "city_or_region": "Lebanon, Indiana",
+        "capacity_mw": "could approach one gigawatt of power capacity",
+        "status": "officially broke ground"
+      },
+      "confidence": 0.85,
+      "notes": "Capacity is approximate at full buildout"
+    }
+  ]
+}

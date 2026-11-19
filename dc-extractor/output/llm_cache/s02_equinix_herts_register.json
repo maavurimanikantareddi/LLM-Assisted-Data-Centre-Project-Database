@@ -1,0 +1,27 @@
+{
+  "projects": [
+    {
+      "project_name": "DC01UK campus",
+      "developer": "DC01 UK Ltd",
+      "operator": "Equinix",
+      "country": "UK",
+      "city_or_region": "near London",
+      "capacity_mw": 250,
+      "status": "planning",
+      "expected_online_year": null,
+      "power_supply": null,
+      "investment_usd_m": null,
+      "evidence": {
+        "project_name": "a company called DC01 UK Ltd",
+        "developer": "filed last year by a company called DC01 UK Ltd",
+        "operator": "Equinix revealed as occupant",
+        "country": "£3.9B UK datacenter campus",
+        "city_or_region": "campus near London",
+        "capacity_mw": "more than 250 MW capacity",
+        "status": "The planning application for the project was filed"
+      },
+      "confidence": 0.85,
+      "notes": "Investment £3.9B (GBP, not converted)"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "project_name": "CorScale Iver campus",
+      "developer": "CorScale",
+      "operator": null,
+      "country": "UK",
+      "city_or_region": "Iver, Buckinghamshire",
+      "capacity_mw": 140,
+      "status": "planning",
+      "expected_online_year": 2029,
+      "power_supply": "Dedicated 140MVA substation",
+      "investment_usd_m": null,
+      "evidence": {
+        "project_name": "140 MW Iver data centre campus",
+        "developer": "CorScale is preparing to move forward",
+        "country": "its first UK data centre project",
+        "city_or_region": "Iver, Buckinghamshire",
+        "capacity_mw": "a planned 140 MW campus",
+        "status": "to begin pre-development works",
+        "expected_online_year": "CorScale targets 2029 completion",
+        "power_supply": "a dedicated 140MVA substation"
+      },
+      "confidence": 0.9,
+      "notes": null
+    }
+  ]
+}

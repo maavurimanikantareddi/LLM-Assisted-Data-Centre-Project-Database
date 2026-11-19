@@ -1,0 +1,5 @@
+SOURCE_URL: https://www.storagenewsletter.com/2026/07/23/crusoe-and-lancium-announce-1-0-gigawatt-ai-data-center-campus-in-childress-texas/
+
+Crusoe and Lancium Announce 1.0 Gigawatt AI Data Center Campus in Childress, Texas
+Announcing a 270-acre, 1GW AI data center with solar power and water-efficient cooling; construction begins Q3 2026
+The grid-connected campus spans 270 acres owned by Lancium, which will also develop and manage the site's energy infrastructure. The data center will be purpose-built to support the advanced AI computational requirements of a leading hyperscale technology company.

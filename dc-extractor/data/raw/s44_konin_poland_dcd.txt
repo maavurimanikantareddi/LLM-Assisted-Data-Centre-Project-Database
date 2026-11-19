@@ -1,0 +1,5 @@
+SOURCE_URL: https://datacenterdynamics.com/en/news/electricity-retailer-energa-obrot-signs-letter-of-intent-for-100mw-data-center-in-konin-poland
+
+Electricity retailer Energa Obrot, renewable energy developer Central Energy Group (CGE), and the municipality of Konin have signed a letter of intent (LOI) to develop a data center project in the Polish city.
+Spearheaded by CGE, construction is scheduled to begin in early 2027 at a total cost of just under EUR3 billion ($3.4bn). The project will be built in stages, with the first phase yielding 100MW of IT compute capacity.
+First proposed in April 2026, CGE's data center in Konin will be constructed in partnership with real estate consultant JLL. The necessary environmental and building permits for the first phase of construction were granted by the municipality of Konin in January and May 2026, respectively.

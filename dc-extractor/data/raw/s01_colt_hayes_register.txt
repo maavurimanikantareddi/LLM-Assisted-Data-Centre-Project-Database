@@ -1,0 +1,4 @@
+SOURCE_URL: https://www.theregister.com/2025/11/06/colt_gets_green_light_for/
+
+Colt Data Centre Services has secured approval to invest £2.5 billion ($3.3 billion) in three hyperscale data centers at its Hayes Digital Park campus in west London.
+The expansion, approved by Hillingdon Council, will add 97 MW of IT capacity to the site near Heathrow Airport — more than doubling its total capacity to 160 MW.

@@ -1,0 +1,5 @@
+SOURCE_URL: https://www.verdict.co.uk/?p=397395
+
+Pure Data Centres Group (Pure DC), backed by Oaktree, will invest more than €1bn ($1.17bn) in the Netherlands to develop a 78MW data centre campus in Westpoort, Amsterdam.
+The development will be powered by a private substation that is already built and operational. Construction of the data halls is scheduled to start in January 2026.
+The data centre is designed to meet the Dutch energy efficiency target with a projected power usage effectiveness (PUE) of 1.2.

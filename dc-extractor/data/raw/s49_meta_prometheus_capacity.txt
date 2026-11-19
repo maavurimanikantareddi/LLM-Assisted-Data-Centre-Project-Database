@@ -1,0 +1,3 @@
+SOURCE_URL: https://spectrumnews1.com/oh/cincinnati/news/2026/01/09/meta-lines-up-massive-supply-of-nuclear-power-to-energize-ai-data-centers
+
+Meta announced Prometheus, which will be a 1-gigawatt cluster spanning across multiple data center buildings, in July. It's anticipated to come online this year.

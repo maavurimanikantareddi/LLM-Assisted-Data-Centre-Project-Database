@@ -1,0 +1,14 @@
+{
+  "gold_records": 30,
+  "recall_records_found": 1.0,
+  "field_accuracy": {
+    "project_name": 1.0,
+    "developer": 1.0,
+    "country": 1.0,
+    "city_or_region": 1.0,
+    "capacity_mw": 0.933,
+    "status": 1.0,
+    "expected_online_year": 1.0
+  },
+  "overall_field_accuracy": 0.99
+}

@@ -1,0 +1,26 @@
+{
+  "projects": [
+    {
+      "project_name": "Delta Forge 1",
+      "developer": "Applied Digital",
+      "operator": null,
+      "country": "US",
+      "city_or_region": null,
+      "capacity_mw": 430,
+      "status": "under_construction",
+      "expected_online_year": null,
+      "power_supply": "Utility power",
+      "investment_usd_m": null,
+      "evidence": {
+        "project_name": "broken ground on Delta Forge 1",
+        "developer": "Applied Digital announced",
+        "country": "Southern U.S. state",
+        "capacity_mw": "approximately 430 MW of utility power",
+        "status": "has broken ground",
+        "power_supply": "430 MW of utility power"
+      },
+      "confidence": 0.8,
+      "notes": "Exact state not disclosed"
+    }
+  ]
+}

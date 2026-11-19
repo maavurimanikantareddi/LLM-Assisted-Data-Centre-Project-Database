@@ -1,0 +1,4 @@
+SOURCE_URL: https://www.eenews.net/articles/rick-perry-led-company-plans-to-build-nations-largest-ai-nuclear-project
+
+A company co-founded by former Energy Secretary Rick Perry plans to build one of the world's largest data center complexes, which would be powered by nuclear, natural gas, solar and batteries.
+Fermi America announced on Thursday its plans for a "HyperGrid" campus in Amarillo, Texas. The complex would contain the nation's largest nuclear and natural gas projects, aiming to deliver 1 gigawatt of power by the end of next year.

@@ -1,0 +1,27 @@
+{
+  "projects": [
+    {
+      "project_name": "Konin Data Center",
+      "developer": "Central Energy Group (CGE)",
+      "operator": null,
+      "country": "Poland",
+      "city_or_region": "Konin",
+      "capacity_mw": 100,
+      "status": "permitted",
+      "expected_online_year": null,
+      "power_supply": null,
+      "investment_usd_m": 3400,
+      "evidence": {
+        "project_name": "a data center project in the Polish city",
+        "developer": "Spearheaded by CGE",
+        "country": "the Polish city",
+        "city_or_region": "the municipality of Konin",
+        "capacity_mw": "the first phase yielding 100MW of IT compute capacity",
+        "status": "building permits for the first phase of construction were granted",
+        "investment_usd_m": "just under EUR3 billion ($3.4bn)"
+      },
+      "confidence": 0.9,
+      "notes": "100MW is first phase only; construction to start early 2027"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "project_name": "NorthC Geneva",
+      "developer": "NorthC",
+      "operator": "NorthC",
+      "country": "Switzerland",
+      "city_or_region": "Meyrin, Geneva",
+      "capacity_mw": 4.5,
+      "status": "under_construction",
+      "expected_online_year": 2028,
+      "power_supply": null,
+      "investment_usd_m": null,
+      "evidence": {
+        "project_name": "a new facility in Geneva, Switzerland",
+        "developer": "NorthC has started construction",
+        "operator": "data center firm NorthC",
+        "country": "Geneva, Switzerland",
+        "city_or_region": "in Meyrin",
+        "capacity_mw": "4.5MW of IT capacity",
+        "status": "has started construction",
+        "expected_online_year": "completed by Q2 2028"
+      },
+      "confidence": 0.9,
+      "notes": null
+    }
+  ]
+}

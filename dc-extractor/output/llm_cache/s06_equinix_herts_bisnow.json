@@ -1,0 +1,26 @@
+{
+  "projects": [
+    {
+      "project_name": "DC01UK scheme",
+      "developer": "Equinix",
+      "operator": "Equinix",
+      "country": "UK",
+      "city_or_region": "Hertfordshire",
+      "capacity_mw": 250,
+      "status": "announced",
+      "expected_online_year": null,
+      "power_supply": null,
+      "investment_usd_m": null,
+      "evidence": {
+        "project_name": "The Dc01Uk Scheme In Hertfordshire",
+        "developer": "specialist developer and operator Equinix",
+        "operator": "specialist developer and operator Equinix",
+        "city_or_region": "Scheme In Hertfordshire",
+        "capacity_mw": "£3.9B, 250 MW scheme",
+        "status": "which will now build"
+      },
+      "confidence": 0.85,
+      "notes": "£3.9B (GBP)"
+    }
+  ]
+}

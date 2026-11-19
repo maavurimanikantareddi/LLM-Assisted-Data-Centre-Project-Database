@@ -1,0 +1,7 @@
+SOURCE_URL: https://capacityglobal.com/news/pure-data-centres-new-hyperscale-data-centre-europe/
+
+Pure Data Centres to spend €1bn on Amsterdam's largest data centre
+15 December 2025
+Pure Data Centres plans to fund one of the largest hyperscale data centre investments announced in Europe this year, spending €1bn (US$1.17bn) on a campus in Amsterdam.
+Construction of the campus will begin in Amsterdam in January 2026, with the company saying there will be a phased delivery from 2028 onwards. It will be able to serve either AI or cloud workloads, with a private substation powering the data centre.
+Phase one will see the development of a substation and 30MW data centre with a total potential campus capacity of 70MW.

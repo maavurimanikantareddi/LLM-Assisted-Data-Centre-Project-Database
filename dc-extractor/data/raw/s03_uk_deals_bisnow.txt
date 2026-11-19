@@ -1,0 +1,5 @@
+SOURCE_URL: https://www.bisnow.com/news/london/data-center-capital-markets/one-week-10b-of-data-centre-deals-in-the-uk-131705
+
+Colt Data Centre Services, a London-headquartered company, said this week that it received planning committee approval from Hillingdon Council to expand its Hayes Digital Park campus in West London with three new hyperscale data centres.
+Construction is expected to start in mid-2026, with the first data centre scheduled to go live in early 2029.
+About 20 miles north, Ark Data Centres is planning a £2B data centre near Watford and has started a public consultation on the project. The site, a former Mercure hotel, could host a data centre campus with up to 200 MW.

@@ -1,0 +1,27 @@
+{
+  "projects": [
+    {
+      "project_name": "Cerebras Mikkeli campus",
+      "developer": "Cerebras",
+      "operator": "Cerebras",
+      "country": "Finland",
+      "city_or_region": "Mikkeli",
+      "capacity_mw": 165,
+      "status": "under_construction",
+      "expected_online_year": null,
+      "power_supply": null,
+      "investment_usd_m": null,
+      "evidence": {
+        "project_name": "a 165MW data center campus in Mikkeli, Finland",
+        "developer": "Cerebras has begun construction",
+        "operator": "Cerebras has begun construction",
+        "country": "Mikkeli, Finland",
+        "city_or_region": "Mikkeli, Finland",
+        "capacity_mw": "a 165MW data center campus",
+        "status": "has begun construction"
+      },
+      "confidence": 0.9,
+      "notes": "First phase 50MW"
+    }
+  ]
+}

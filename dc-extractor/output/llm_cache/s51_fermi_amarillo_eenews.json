@@ -1,0 +1,27 @@
+{
+  "projects": [
+    {
+      "project_name": "HyperGrid campus",
+      "developer": "Fermi America",
+      "operator": null,
+      "country": "US",
+      "city_or_region": "Amarillo, Texas",
+      "capacity_mw": 1000,
+      "status": "announced",
+      "expected_online_year": null,
+      "power_supply": "Nuclear, natural gas, solar and batteries",
+      "investment_usd_m": null,
+      "evidence": {
+        "project_name": "a \"HyperGrid\" campus in Amarillo, Texas",
+        "developer": "Fermi America announced",
+        "country": "Amarillo, Texas",
+        "city_or_region": "Amarillo, Texas",
+        "capacity_mw": "deliver 1 gigawatt of power",
+        "status": "Fermi America announced on Thursday its plans",
+        "power_supply": "powered by nuclear, natural gas, solar and batteries"
+      },
+      "confidence": 0.7,
+      "notes": "1 GW is an initial power target, not full campus size"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "project_name": "LON6",
+      "developer": "CyrusOne",
+      "operator": "CyrusOne",
+      "country": "UK",
+      "city_or_region": "Iver Heath, Buckinghamshire",
+      "capacity_mw": 90,
+      "status": "announced",
+      "expected_online_year": 2028,
+      "power_supply": null,
+      "investment_usd_m": null,
+      "evidence": {
+        "project_name": "LON6, in Iver Heath",
+        "developer": "CyrusOne has announced plans",
+        "operator": "the company's sixth UK location",
+        "country": "sixth UK location",
+        "city_or_region": "Iver Heath, Buckinghamshire",
+        "capacity_mw": "The 90-megawatt facility",
+        "status": "has announced plans to build",
+        "expected_online_year": "service beginning in early 2028"
+      },
+      "confidence": 0.9,
+      "notes": null
+    }
+  ]
+}

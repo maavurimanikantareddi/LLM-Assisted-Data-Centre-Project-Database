@@ -1,0 +1,47 @@
+{
+  "projects": [
+    {
+      "project_name": "Hayes Digital Park expansion",
+      "developer": "Colt Data Centre Services",
+      "operator": null,
+      "country": "UK",
+      "city_or_region": "Hayes, west London",
+      "capacity_mw": null,
+      "status": "permitted",
+      "expected_online_year": 2029,
+      "power_supply": null,
+      "investment_usd_m": null,
+      "evidence": {
+        "project_name": "Hayes digital park campus",
+        "developer": "Colt Data Centre Services",
+        "country": "west London",
+        "city_or_region": "Hayes digital park campus in west London",
+        "status": "received planning approval from Hillingdon council",
+        "expected_online_year": "expected to come online in early 2029"
+      },
+      "confidence": 0.9,
+      "notes": null
+    },
+    {
+      "project_name": "Ark Watford data centre",
+      "developer": "Ark Data Centres",
+      "operator": null,
+      "country": "UK",
+      "city_or_region": "Watford",
+      "capacity_mw": null,
+      "status": "announced",
+      "expected_online_year": null,
+      "power_supply": null,
+      "investment_usd_m": null,
+      "evidence": {
+        "project_name": "£2bn project near Watford",
+        "developer": "Ark Data Centres",
+        "country": "near Watford",
+        "city_or_region": "near Watford",
+        "status": "Ark Data Centres also announced"
+      },
+      "confidence": 0.8,
+      "notes": null
+    }
+  ]
+}

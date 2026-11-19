@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "project_name": "Frontier campus",
+      "developer": "Vantage Data Centers",
+      "operator": "Vantage Data Centers",
+      "country": "US",
+      "city_or_region": "Shackelford County, Texas",
+      "capacity_mw": 1400,
+      "status": "announced",
+      "expected_online_year": null,
+      "power_supply": null,
+      "investment_usd_m": 25000,
+      "evidence": {
+        "project_name": "\"Frontier\" development",
+        "developer": "Vantage Data Centers will invest",
+        "operator": "Vantage Data Centers will invest",
+        "country": "Shackelford County, Texas",
+        "city_or_region": "Shackelford County, Texas",
+        "capacity_mw": "a 1.4GW",
+        "status": "has announced plans to build",
+        "investment_usd_m": "invest $25 billion"
+      },
+      "confidence": 0.9,
+      "notes": null
+    }
+  ]
+}
